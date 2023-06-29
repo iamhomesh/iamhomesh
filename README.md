@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Homesh
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Spring Boot.
-- 💞️ I’m looking to collaborate on Open Source ReactJs and laravel Projects.
+- 👋 Hi, I’m Homesh.
+- 👀 I’m interested in Web Development.
+- 💞️ I’m looking to collaborate on Open Source VueJs, ReactJs and laravel Projects.
 - 📫 How to reach me homver30@gmail.com.
 
 <!---
