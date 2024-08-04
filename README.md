@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Homesh.
+- 👋 Hi, I’m Homessh Verma.
 - 👀 I’m interested in Web Development.
 - 💞️ I’m looking to collaborate on Open Source VueJs, ReactJs and laravel Projects.
-- 📫 How to reach me homver30@gmail.com.
+- 📫 How to reach me it.is.me.homessh@gmail.com.
 
 <!---
 iamhomesh/iamhomesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
