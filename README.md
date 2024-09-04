@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Homessh Verma.
+- 👋 Hi, I’m Homessh Kumarr.
 - 👀 I’m interested in Web Development.
 - 💞️ I’m looking to collaborate on Open Source VueJs, ReactJs and laravel Projects.
 - 📫 How to reach me homver30@gmail.com.
