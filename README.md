@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Homessh Kumarr.
 - 👀 I’m interested in Web Development.
 - 💞️ I’m looking to collaborate on Open Source VueJs, ReactJs and laravel Projects.
-- 📫 How to reach me homver30@gmail.com.
+- 📫 How to reach me iamhomesh@gmail.com.
 
 <!---
 iamhomesh/iamhomesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
