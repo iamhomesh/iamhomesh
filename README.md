@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Homessh Verma.
-- 👀 I’m interested in Web Development.
-- 💞️ I’m looking to collaborate on Open Source VueJs, ReactJs and laravel Projects.
-- 📫 How to reach me its.me.homesh@gmail.com.
+Backend-first Full Stack Developer focused on Laravel, React, and Vue. I like building scalable APIs, optimizing performance, and keeping code clean, modular, and production-ready.
